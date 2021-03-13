@@ -6,7 +6,5 @@ HTML <br>
 CSS <br>
 Vanilla js <br>
 
-``
- API Endpoint : https://pomber.github.io/covid19/timeseries.json"
- 
-``
+API Endpoint : https://pomber.github.io/covid19/timeseries.json"
+
